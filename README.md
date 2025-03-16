@@ -18,7 +18,6 @@ A bowling game consists of 10 frames where a player attempts to knock down pins 
 
 Each frame displays the number of pins knocked down per throw and the running total (cumulative score).
 
-## Project Structure
 
 
 
