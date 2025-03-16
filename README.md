@@ -17,22 +17,3 @@ A bowling game consists of 10 frames where a player attempts to knock down pins 
 - **Perfect Game:** A perfect game, where you score 12 consecutive strikes, totals 300 points—the maximum possible!
 
 Each frame displays the number of pins knocked down per throw and the running total (cumulative score).
-
-
-
-
-
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) (or higher)
-- npm
-
-### Frontend (Vue.js) Setup
-
-1. Open your terminal and navigate to the `BowlingApp` folder.
-2. Install the dependencies:
-   ```bash
-   npm install
